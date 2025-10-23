@@ -32,11 +32,8 @@ Visualizes KPIs such as total opportunity value, deal stage performance, and cus
 Skills Demonstrated:
 
 Salesforce Lightning Reports & Dashboards
-
 Data Analysis & Visualization
-
 Business Intelligence & KPI Reporting
-
 Report Customization (Buckets, Filters, Grouping)
 
 <img width="1799" height="806" alt="Demo Dashboard" src="https://github.com/user-attachments/assets/2be2b3e5-2999-43c3-93df-575b2af2d46f" />
