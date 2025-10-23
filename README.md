@@ -52,8 +52,11 @@ Integrate data from external systems via API.
 Create dynamic dashboards for role-based access.
 
 Contact
+
 Kazi Salith Ur Rahman
+
 salith.rahman107@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/salith-rahman/
 
 
