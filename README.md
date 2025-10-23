@@ -12,7 +12,9 @@ Account Distribution by Type and Country
 Overall Opportunity Value and Performance Indicators
 
 Key Features & Techniques
+
 Reports:
+
 Tabular, Summary, and Matrix Reports to organize and analyze data at different levels.
 Buckets & Grouping to categorize opportunity stages and account types.
 Matrix Buckets & Charts to visualize relationships between dimensions like Type and Billing Country.
@@ -22,14 +24,19 @@ Conditional Formatting & Row-Level Formulas for better readability and performan
 Joined Reports to combine multiple data sets in a single view for executive insights.
 
 Dashboard:
+
 A Salesforce Lightning Dashboard built from multiple reports.
 Includes bar charts, gauges, number cards, and donut charts for quick insights.
 Visualizes KPIs such as total opportunity value, deal stage performance, and customer distribution.
 
-Skills Demonstrated
+Skills Demonstrated:
+
 Salesforce Lightning Reports & Dashboards
+
 Data Analysis & Visualization
+
 Business Intelligence & KPI Reporting
+
 Report Customization (Buckets, Filters, Grouping)
 
 <img width="1799" height="806" alt="Demo Dashboard" src="https://github.com/user-attachments/assets/2be2b3e5-2999-43c3-93df-575b2af2d46f" />
