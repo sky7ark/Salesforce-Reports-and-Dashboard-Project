@@ -6,10 +6,11 @@ The work was designed to demonstrate strong analytical and CRM reporting capabil
 Overview
 
 The goal of this project was to design and build multiple Salesforce reports and combine them into a custom dashboard that provides insights into:
-New Opportunities by Stage
-Open Cases by Account
-Account Distribution by Type and Country
-Overall Opportunity Value and Performance Indicators
+
+New Opportunities by Stage.
+Open Cases by Account.
+Account Distribution by Type and Country.
+Overall Opportunity Value and Performance Indicators.
 
 Key Features & Techniques
 
@@ -46,15 +47,18 @@ Report Customization (Buckets, Filters, Grouping)
 
 
 Tools Used
-Salesforce Lightning Experience
-Report Builder & Dashboard Designer
-Formulas, Filters, and Conditional Formatting
+
+Salesforce Lightning Experience.
+Report Builder & Dashboard Designer.
+Formulas, Filters, and Conditional Formatting.
 
 Next Steps
+
 Future enhancements:
-Automate dashboard refresh using Salesforce schedules
-Integrate data from external systems via API
-Create dynamic dashboards for role-based access
+
+Automate dashboard refresh using Salesforce schedules.
+Integrate data from external systems via API.
+Create dynamic dashboards for role-based access.
 
 Contact
 Kazi Salith Ur Rahman
