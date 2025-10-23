@@ -37,22 +37,13 @@ Data Analysis & Visualization
 Business Intelligence & KPI Reporting
 Report Customization (Buckets, Filters, Grouping)
 
-<img width="1799" height="806" alt="Demo Dashboard" src="https://github.com/user-attachments/assets/2be2b3e5-2999-43c3-93df-575b2af2d46f" />
-<img width="1812" height="476" alt="Weighted Opportunity Value" src="https://github.com/user-attachments/assets/0089b5ed-b489-4cec-96de-1a5c94d95f12" />
-<img width="1803" height="796" alt="Tabular, Summary and Matrix Report " src="https://github.com/user-attachments/assets/6ef70679-7c0f-443a-bd50-68acce08c989" />
-<img width="1831" height="706" alt="Percentage of total oppotinities per stage" src="https://github.com/user-attachments/assets/67a5f9b5-4bea-41a2-8a4e-dcb4ed11a643" />
-<img width="1823" height="766" alt="Matrix Buckets and Charts" src="https://github.com/user-attachments/assets/b206a8cb-8c91-435f-b815-f9fcbb62f5f1" />
-<img width="1807" height="437" alt="Conditioning - Row level formula" src="https://github.com/user-attachments/assets/c8f79872-6fcc-436c-b2c5-6cdf02118b81" />
-<img width="1383" height="797" alt="Buckets   Grouping" src="https://github.com/user-attachments/assets/deecbd00-ef47-492b-af71-f130e9784af3" />
-
-
-Tools Used
+Tools Used:
 
 Salesforce Lightning Experience.
 Report Builder & Dashboard Designer.
 Formulas, Filters, and Conditional Formatting.
 
-Next Steps
+Next Steps:
 
 Future enhancements:
 
@@ -64,3 +55,12 @@ Contact
 Kazi Salith Ur Rahman
 salith.rahman107@gmail.com
 LinkedIn: https://www.linkedin.com/in/salith-rahman/
+
+
+<img width="1799" height="806" alt="Demo Dashboard" src="https://github.com/user-attachments/assets/2be2b3e5-2999-43c3-93df-575b2af2d46f" />
+<img width="1812" height="476" alt="Weighted Opportunity Value" src="https://github.com/user-attachments/assets/0089b5ed-b489-4cec-96de-1a5c94d95f12" />
+<img width="1803" height="796" alt="Tabular, Summary and Matrix Report " src="https://github.com/user-attachments/assets/6ef70679-7c0f-443a-bd50-68acce08c989" />
+<img width="1831" height="706" alt="Percentage of total oppotinities per stage" src="https://github.com/user-attachments/assets/67a5f9b5-4bea-41a2-8a4e-dcb4ed11a643" />
+<img width="1823" height="766" alt="Matrix Buckets and Charts" src="https://github.com/user-attachments/assets/b206a8cb-8c91-435f-b815-f9fcbb62f5f1" />
+<img width="1807" height="437" alt="Conditioning - Row level formula" src="https://github.com/user-attachments/assets/c8f79872-6fcc-436c-b2c5-6cdf02118b81" />
+<img width="1383" height="797" alt="Buckets   Grouping" src="https://github.com/user-attachments/assets/deecbd00-ef47-492b-af71-f130e9784af3" />
